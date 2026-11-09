@@ -1,0 +1,10 @@
+activity 1 – C/C++ Development Environment Setup
+
+I installed Visual Studio Code on my MacBook.
+I installed the C/C++ extension by Microsoft.
+I configured the C compiler successfully.
+I created a C program named hello.c.
+I compiled the program using the terminal.
+Initially, I faced some difficulties with the setup, but I resolved them.
+Finally, I executed the program successfully and got the output “Hello, World!”.
+This activity helped me learn how to set up a C programming environment.
